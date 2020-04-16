@@ -1,0 +1,9 @@
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\bin\Debug\PlaylistRber25maart2020.exe.config
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\bin\Debug\PlaylistRber25maart2020.exe
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\bin\Debug\PlaylistRber25maart2020.pdb
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.csprojAssemblyReference.cache
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.Form1.resources
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.Properties.Resources.resources
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.csproj.GenerateResource.cache
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.exe
+C:\Users\raul2\OneDrive\Bureaublad\C#\PlaylistRber25maart2020\PlaylistRber25maart2020\obj\Debug\PlaylistRber25maart2020.pdb
